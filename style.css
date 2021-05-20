@@ -74,7 +74,7 @@ p{
 }
 .links{
     float: left;
-    color: palegreen;
+    color: seagreen;
     padding-top: 5px;
         padding-bottom: 5px;
     padding-left: 9px;
@@ -84,4 +84,13 @@ p{
 }
 .links:hover{
    background-color: cyan; 
+}
+a{
+   text-decoration: none;
+}
+.article:hover{
+    color: forestgreen;
+}
+html{
+    scroll-behavior: smooth
 }
